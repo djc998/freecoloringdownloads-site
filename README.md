@@ -1,5 +1,4 @@
-# freecoloringdownloads.com — built site
+# freecoloringdownloads-site
 
-This repository holds the GENERATED static build of freecoloringdownloads.com, deployed by GitHub Actions from the private source repo (djc998/freecoloringdownloads) and served via GitHub Pages.
-
-Do not edit files here by hand — every deploy overwrites them.
+Generated static output of freecoloringdownloads.com, served by GitHub Pages.
+Do not edit by hand — source lives in the private repo `djc998/freecoloringdownloads` and deploys here.
